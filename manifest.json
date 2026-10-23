@@ -1,0 +1,9 @@
+{
+  "name": "Money Calculator Pro",
+  "short_name": "Money Pro",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7f5",
+  "theme_color": "#102c27",
+  "description": "Instant transfer fee and maximum-send calculator for Bangladesh."
+}
